@@ -1,7 +1,7 @@
 _id: spc_e4a2bbbe018b400383a85ef883a14f30
 type: ApiSpec
 parentId: wrk_5e15417d7f15458e8bc722dfe1527100
-modified: 1663014402564
+modified: 1663014608272
 created: 1663014395707
 fileName: my-spec.yaml
 contents: >-
@@ -13,7 +13,7 @@ contents: >-
       #swagger](http://swagger.io/irc/).  For this sample, you can use the api key
       `special-key` to test the authorization filters."
     version: 1.0.3
-    title: Swagger Petstore v1.0.3
+    title: Swagger Petstore v1.0.4
     termsOfService: http://swagger.io/terms/
     contact:
       email: apiteam@swagger.io
