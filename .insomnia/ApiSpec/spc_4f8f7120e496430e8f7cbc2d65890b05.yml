@@ -1,9 +1,9 @@
 _id: spc_4f8f7120e496430e8f7cbc2d65890b05
 type: ApiSpec
 parentId: wrk_0a619a262c884540bde2d56947dfc5ca
-modified: 1724160736376
+modified: 1724226367775
 created: 1724160736376
-fileName: New Document
+fileName: my-spec.yaml
 contents: >
   openapi: 3.0.0
 
@@ -12,7 +12,7 @@ contents: >
       Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net,
       #swagger](http://swagger.io/irc/).  For this sample, you can use the api key
       'special-key' to test the authorization filters."
-    version: 1.0.2
+    version: 1.0.3
     title: Swagger Petstore
     termsOfService: http://swagger.io/terms/
     contact:
