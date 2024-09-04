@@ -1,0 +1,28 @@
+_id: req_da519c7b615d4251be04d16ea9b2effe
+type: Request
+parentId: fld_f4660b9edb6a45fd9079feca154bcfc3
+modified: 1725441565469
+created: 1725441565469
+url: "{{ _.base_url }}/pet/findByTags"
+name: Finds Pets by tags
+description: Multiple tags can be provided with comma separated strings. Use
+  tag1, tag2, tag3 for testing.
+method: GET
+body: {}
+parameters:
+  - name: tags
+    disabled: false
+    value: string
+headers: []
+authentication: {}
+preRequestScript: null
+metaSortKey: -1725441565469
+isPrivate: false
+pathParameters: null
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

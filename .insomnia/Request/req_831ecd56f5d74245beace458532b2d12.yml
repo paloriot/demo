@@ -1,0 +1,27 @@
+_id: req_831ecd56f5d74245beace458532b2d12
+type: Request
+parentId: fld_f4660b9edb6a45fd9079feca154bcfc3
+modified: 1725441565469
+created: 1725441565469
+url: "{{ _.base_url }}/pet/findByStatus"
+name: Finds Pets by status
+description: Multiple status values can be provided with comma separated strings
+method: GET
+body: {}
+parameters:
+  - name: status
+    disabled: false
+    value: available
+headers: []
+authentication: {}
+preRequestScript: null
+metaSortKey: -1725441565469
+isPrivate: false
+pathParameters: null
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
